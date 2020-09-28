@@ -1,0 +1,20 @@
+mART reconstruction report:
+
+
+Orientation                 : Anticlockwise
+Source to object distance   : 131.8mm
+Object to detector distance : 48mm
+
+Camera circumfrential Offset: 0mm
+Camera axial Offset         : 0mm
+Camera mount skew           : 0rad
+Camera drive skew           : 0rad
+Gantry mount tilt           : 0rad
+Gantry mount skew           : 0rad
+
+Camera element size         : 0.11mm
+Voxel scale factor          : 1
+Volume element size         : 0.0930111mm
+Volume radius               : 20.2308mm
+Volume length               : 11.9054mm
+Volume dimensions           : 436, 436, 129
